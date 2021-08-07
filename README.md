@@ -103,3 +103,13 @@ and then the `layout1.html` file code
 ```
 
 
+
+
+---------------------------------------
+### Some useful links for you to start with creating a website 
+
+* For [HTML](https://www.w3schools.com/html/ "w3schools.com") code
+* How to use [FLASK](https://flask.palletsprojects.com/en/2.0.x/ "Flask own website") 
+* For an exampel to combine the website and a raspberry pi to make a car [GITHUB](https://github.com/The1lama/python-car-L298N-motor-driver-with-web-controller "The project")
+
+---------------------------------------
