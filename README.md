@@ -109,12 +109,16 @@ and then the `layout1.html` file code
 
 ```
 
+![web site github](https://user-images.githubusercontent.com/87243876/128639840-e638b515-a199-4a00-8418-6eb32744cd68.jpg)
+
+![web site2 github](https://user-images.githubusercontent.com/87243876/128639947-468ed2e2-47be-4d9f-93fa-550f82e13c18.jpg)
+
 ---
 
 ### Some useful links for you to start with creating a website
 
 * For [HTML](https://www.w3schools.com/html/ "w3schools.com") code
 * How to use [FLASK](https://flask.palletsprojects.com/en/2.0.x/ "Flask own website")
-* For an exampel to combine the website and a raspberry pi to make a car [GITHUB](https://github.com/The1lama/python-car-L298N-motor-driver-with-web-controller "The project")
+* Exampel about how to combine the website and a raspberry pi to make a car [GITHUB](https://github.com/The1lama/python-car-L298N-motor-driver-with-web-controller "The project")
 
 ---
